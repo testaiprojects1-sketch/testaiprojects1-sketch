@@ -1,5 +1,5 @@
 # Jane Riveros
-**AI Systems Engineer** · Governance-by-Design · Santiago, Chile 🇨🇱  
+**Program Manager - AI Systems** · Governance-by-Design · Santiago, Chile 🇨🇱  
 *Inglés fluido · Español nativo* | America/Santiago timezone (UTC-3/UTC-4)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/janeriveros)
